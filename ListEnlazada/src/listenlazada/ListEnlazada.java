@@ -16,5 +16,20 @@ public class ListEnlazada {
         listaenlazada.mostrarListaEnlazada();
         listaenlazada.borrarDlInicio();
         listaenlazada.mostrarListaEnlazada();
+     //--------------------------------------------//
+        List lista = new List();
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.agregarAlInicio("20");
+        listaenlazada.mostrarListaEnlazada();
+        listaenlazada.borrarDlInicio();
+        listaenlazada.mostrarListaEnlazada();
     }
 }
